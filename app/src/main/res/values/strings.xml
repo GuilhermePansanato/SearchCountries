@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Países</string>
+    <string name="response_error">algo deu errado tente mais tarde!</string>
+    <string name="response_error2">algo deu errado </string>
+</resources>
